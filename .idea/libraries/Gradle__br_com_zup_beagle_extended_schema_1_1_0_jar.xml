@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: br.com.zup.beagle:extended-schema:1.1.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.zup.beagle/extended-schema/1.1.0/fa74d1cf129532d7804c14999ae52f94ff944f39/extended-schema-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.zup.beagle/extended-schema/1.1.0/44b080466f552fae510021ed325bb3d54acb4dc4/extended-schema-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.zup.beagle/extended-schema/1.1.0/cddfbd685c13074fba67172a3a2d8ca6d9462e79/extended-schema-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

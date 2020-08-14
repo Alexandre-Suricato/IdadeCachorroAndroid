@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: br.com.zup.beagle:android:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1462ce3b2a910f65b89427c5387470f3/jetified-android-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1462ce3b2a910f65b89427c5387470f3/jetified-android-1.1.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.zup.beagle/android/1.1.0/6bcf5c6519d7b51fa0422532b96698d079312a24/android-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.zup.beagle/android/1.1.0/c019d225409be9260d203b97e2fe22211a190863/android-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

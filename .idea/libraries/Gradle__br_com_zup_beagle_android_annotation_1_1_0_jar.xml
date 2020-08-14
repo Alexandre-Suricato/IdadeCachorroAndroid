@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: br.com.zup.beagle:android-annotation:1.1.0@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.zup.beagle/android-annotation/1.1.0/cf6fdc2ee1e9cd8ea358dde414fc90706029d1bb/android-annotation-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.zup.beagle/android-annotation/1.1.0/b0d4a2117b99244892fd1e15b01ec829bf5e0bf1/android-annotation-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.zup.beagle/android-annotation/1.1.0/6d8809cc06858bd0b69e526776d2dd0b82ac8199/android-annotation-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
