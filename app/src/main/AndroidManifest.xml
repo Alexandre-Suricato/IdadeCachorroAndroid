@@ -13,8 +13,12 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".AppBeagleActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".AppBeagleActivity"
+            android:windowSoftInputMode="adjustResize">
+        </activity>
+
+        <activity android:name=".MainActivity"
+            android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
